@@ -12,4 +12,7 @@ yarn dev
 ```
 
 Or
-`pnpm dev `
+
+```pnpm
+pnpm dev
+```
